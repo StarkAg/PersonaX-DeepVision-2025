@@ -1,6 +1,6 @@
 # PersonaX ML Website
 
-E-commerce Customer Persona Development website featuring RFM analysis and customer segmentation using K-Means clustering and PCA visualization.
+
 
 ## Deployment to Vercel
 
